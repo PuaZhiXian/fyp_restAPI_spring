@@ -32,7 +32,7 @@ public class HibernateConf {
         dataSource.setDriverClassName("com.mysql.jdbc.Driver");
         dataSource.setUrl("jdbc:mysql://localhost:3306/fyp_db");
         dataSource.setUsername("root");
-        dataSource.setPassword("@Zhixian8189");
+        dataSource.setPassword("@Password");
 
         return dataSource;
     }
